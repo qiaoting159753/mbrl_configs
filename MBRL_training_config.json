@@ -8,6 +8,7 @@
         55
     ],
     "G": 1,
+    "G_model": 0.2,
     "batch_size": 256,
     "max_steps_exploration": 256,
     "max_steps_training": 1000000,
