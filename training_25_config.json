@@ -2,6 +2,7 @@
     "_comment": "MBRL+SAC: Different from others, SAC do automatic exploration",
     "seeds": [25],
     "G": 1,
+    "G_model": 1.0,
     "batch_size": 256,
     "max_steps_exploration": 256,
     "max_steps_training": 1000000,
