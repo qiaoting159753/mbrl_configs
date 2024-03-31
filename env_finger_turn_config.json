@@ -1,5 +1,5 @@
 {
     "gym": "dmcs",
-    "task": "hard",
-    "domain": "finger_turn"
+    "task": "turn_hard",
+    "domain": "finger"
 }
