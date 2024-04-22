@@ -1,13 +1,7 @@
 {
-    "_comment": "MBRL+SAC: Different from others, SAC do automatic exploration",
     "seeds": [25],
-    "G": 1,
-    "G_model": 1.0,
-    "batch_size": 256,
-    "max_steps_exploration": 256,
-    "max_steps_training": 1000000,
+    "plot_frequency": 100,
+    "checkpoint_frequency": 100,
     "number_steps_per_evaluation": 10000,
     "number_eval_episodes": 10,
-    "plot_frequency": 100,
-    "checkpoint_frequency": 100
 }
