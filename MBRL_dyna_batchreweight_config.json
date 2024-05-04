@@ -1,7 +1,7 @@
 {
     "G": 1, 
     "G_model": 0.2, 
-
+    
     "buffer_size": 1000000,
     "batch_size": 256,
 
@@ -13,7 +13,7 @@
     "noise_scale": 0.1,
     "noise_decay": 1.0,
 
-    "algorithm": "DynaSAC",
+    "algorithm": "DynaSAC_BatchReweight",
     "actor_lr": 3e-4,
     "critic_lr": 3e-4,
     "alpha_lr": 3e-4,
