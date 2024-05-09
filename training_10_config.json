@@ -3,5 +3,5 @@
     "plot_frequency": 100,
     "checkpoint_frequency": 100,
     "number_steps_per_evaluation": 10000,
-    "number_eval_episodes": 10,
+    "number_eval_episodes": 10
 }

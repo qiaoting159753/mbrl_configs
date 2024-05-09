@@ -22,5 +22,5 @@
     "tau": 0.005,
     "num_samples": 10,
     "horizon": 1,
-    "num_models": 5,
+    "num_models": 5
 }
