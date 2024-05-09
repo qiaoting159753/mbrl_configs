@@ -1,4 +1,4 @@
-MBRL_dyna_config.json{
+{
     "G": 1, 
     "G_model": 0.2, 
 
@@ -22,5 +22,5 @@ MBRL_dyna_config.json{
     "tau": 0.005,
     "num_samples": 50,
     "horizon": 1,
-    "num_models":5
+    "num_models": 5,
 }
