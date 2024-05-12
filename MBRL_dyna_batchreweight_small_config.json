@@ -20,7 +20,7 @@
     "world_model_lr": 0.001,
     "gamma": 0.99,
     "tau": 0.005,
-    "num_samples": 10,
+    "num_samples": 5,
     "horizon": 1,
     "num_models": 5
 }
