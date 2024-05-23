@@ -22,5 +22,9 @@
     "tau": 0.005,
     "num_samples": 10,
     "horizon": 1,
-    "num_models": 5
+    "num_models": 5,
+    "mode": 0,
+    "max_threshold": 0.7,
+    "max_scale": 0.1,
+    "sample_times": 10
 }
