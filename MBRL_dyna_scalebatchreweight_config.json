@@ -21,7 +21,7 @@
     "num_models": 5,
     "mode": 0,
     "threshold_scale": 0.7,
-    "reweight_actor": false,
     "reweight_critic": true,
+    "reweight_actor": false,
     "sample_times": 10
 }
