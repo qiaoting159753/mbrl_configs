@@ -1,5 +1,5 @@
 {
-    "seeds": [15, 25, 35, 45, 55],
+    "seeds": [55],
     "plot_frequency": 100,
     "checkpoint_frequency": 100,
     "number_steps_per_evaluation": 10000,
