@@ -1,5 +1,5 @@
 {
     "gym": "dmcs",
-    "task": "cheetah",
-    "domain": "run"
+    "domain": "cheetah",
+    "task": "run"
 }
