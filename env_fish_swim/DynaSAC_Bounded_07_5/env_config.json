@@ -1,5 +1,6 @@
 {
     "gym": "dmcs",
-    "domain": "swim",
-    "task": "fish"
+    "domain": "fish",
+    "task": "swim"
 }
+
