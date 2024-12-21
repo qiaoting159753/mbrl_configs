@@ -26,8 +26,8 @@
     "num_samples": 10,
     "sas": false,
     "train_reward": true,
-    "train_both": true,
-    "gripper": true,
+    "train_both": false,
+    "gripper": false,
     "threshold": 0.1,
     "exploration_sample": 5
 }
