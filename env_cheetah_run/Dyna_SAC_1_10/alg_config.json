@@ -24,8 +24,9 @@
     "world_model_lr": 0.001,
     "horizon": 1,
     "num_samples": 10,
-    "train_reward": true,
+
     "sas": false,
+    "train_reward": true,
     "train_both": false,
     "gripper": false
 }
