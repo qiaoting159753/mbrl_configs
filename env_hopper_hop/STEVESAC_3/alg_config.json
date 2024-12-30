@@ -21,10 +21,10 @@
     "noise_decay": 1.0,
 
     "num_models": 6,
-    "num_rwd_models": 5,
-
     "world_model_lr": 0.001,
     "horizon": 3,
+    "num_rwd_models": 5,
+
     "sas": false,
     "train_reward": true,
     "train_both": false,
