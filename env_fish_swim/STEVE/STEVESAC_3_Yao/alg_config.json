@@ -30,5 +30,5 @@
     "train_both": false,
     "gripper": false,
     "threshold": 1.0,
-    "exploration_sample": 2
+    "exploration_sample": 5
 }
